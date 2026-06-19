@@ -21,4 +21,4 @@ A major engineering constraint of this project was achieving the time-window log
 3. **Hardware Prototype:** Successfully built and hardware-tested on a physical breadboard to validate acoustic sensitivity and timing accuracy.
 
 ### Breadboard Prototype
-![Working Breadboard Prototype](./Media/media.jfif)
+![Working Breadboard Prototype](./Media.jfif)
